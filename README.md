@@ -1,2 +1,2 @@
-# SMS-SPAM-DETECTOR
-It is used to check whether the message .spam or ham
+# email-spam-classifier-new
+End to end code for the email spam classifier project
